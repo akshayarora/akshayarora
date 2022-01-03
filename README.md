@@ -9,3 +9,4 @@ I'm a software engineer and manager with 20+ years of experience in several plat
 * Self-Employed/Founder at RenderDragon (Apps, Games, Consulting)
 * Quantitative Strategist at BlueMountain Capital Management
 * Software Engineer at Onyx Capital Management
+* Technologist at The Maloney Group
