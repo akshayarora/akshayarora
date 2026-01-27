@@ -6,8 +6,8 @@ I'm an engineering leader and manager with 20+ years of experience with several 
 Director of Engineering, R&D @ [Astronomer](https://astronomer.io)
 
 **Previously:**
-* Head of Engineering, Technical Projects Group at the Office of Eric Schmidt
-* Sr. Director of Engineering at Indigo Ag
+* Head of Engineering, Technical Projects Group at the [Office of Eric Schmidt](https://www.linkedin.com/company/hillspire-llc/)
+* Sr. Director of Engineering at [Indigo Ag](https://www.indigoag.com/)
 * VP of Engineering at [Minerva](https://minervaknows.com)
 * Director, Software Engineering at [StreetEasy](https://streeteasy.com) ([Zillow](https://zillow.com))
 * Self-Employed/Founder at RenderDragon (Apps, Games, Consulting)
